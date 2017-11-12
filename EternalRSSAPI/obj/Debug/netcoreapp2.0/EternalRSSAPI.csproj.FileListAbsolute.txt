@@ -1,0 +1,11 @@
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/bin/Debug/netcoreapp2.0/EternalRSSAPI.deps.json
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/bin/Debug/netcoreapp2.0/EternalRSSAPI.runtimeconfig.json
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/bin/Debug/netcoreapp2.0/EternalRSSAPI.runtimeconfig.dev.json
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/bin/Debug/netcoreapp2.0/EternalRSSAPI.dll
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/bin/Debug/netcoreapp2.0/EternalRSSAPI.pdb
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/obj/Debug/netcoreapp2.0/EternalRSSAPI.csprojResolveAssemblyReference.cache
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/obj/Debug/netcoreapp2.0/EternalRSSAPI.csproj.CoreCompileInputs.cache
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/obj/Debug/netcoreapp2.0/EternalRSSAPI.AssemblyInfoInputs.cache
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/obj/Debug/netcoreapp2.0/EternalRSSAPI.AssemblyInfo.cs
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/obj/Debug/netcoreapp2.0/EternalRSSAPI.dll
+/Users/grayson/Projects/eternalrss/EternalRSSAPI/obj/Debug/netcoreapp2.0/EternalRSSAPI.pdb
