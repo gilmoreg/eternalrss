@@ -61,3 +61,11 @@ typings/
 # personal notes
 notes
 
+# VSCode files
+.vscode
+EternalRSSAPI/.vscode
+
+# Build files
+EternalRSSAPI/bin
+EternalRSSAPI/obj
+EternalRSSAPI/EternalRSSAPI.userprefs
